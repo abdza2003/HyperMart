@@ -113,4 +113,4 @@ HyperMart is an integrated e-commerce platform offering an innovative, high-perf
 
 ---
 
-*This README outlines the key features, technical advantages, and professional benefits of the HyperMart app. It serves as a complete guide to understanding the app's functionalities and user experience.*
+
