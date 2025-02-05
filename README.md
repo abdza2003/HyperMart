@@ -87,25 +87,6 @@ The app utilizes Shorebird Code Push to deploy regular updates, ensuring that us
 
 ---
 
-## Usage Scenarios
-
-### 1. Adding Products and Orders 🏢
-
-Users can add products to their cart and manage their status through the app.
-
-### 2. Sending Offers and Updates 📑
-
-Offers or updates regarding products are sent to users via notifications.
-
-### 3. Order and Purchase Tracking 🔧
-
-Users can track the status of products and orders until delivery.
-
-### 4. Periodic Updates 📊
-
-The app sends notifications for updates on product status or order delays.
-
----
 
 ## Conclusion
 
