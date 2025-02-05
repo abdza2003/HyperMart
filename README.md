@@ -1,6 +1,5 @@
-# HyperMart App: Overview and Features
+# HyperMart App General Scenario
 
-## General Scenario
 
 HyperMart is a comprehensive e-commerce platform that includes a wide variety of online stores. The app aims to enhance the shopping experience and streamline daily processes in an innovative and efficient way. Through the app, users can browse different stores, manage products, orders, and notifications, facilitating work and enhancing collaboration between users and buyers across various devices.
 
