@@ -91,10 +91,10 @@ The app utilizes Shorebird Code Push to deploy regular updates, ensuring that us
 
 
 
-| ![Image](https://github.com/user-attachments/assets/fda252af-23ec-4531-aad2-17b49ff52b0b) | ![Image](https://github.com/user-attachments/assets/aceed21c-11c6-43a5-a13d-98c6e15ed61e) | ![Image](https://github.com/user-attachments/assets/1ffba447-5d6c-4d7a-a43b-fd56f548d4d4) |
+| ![Image](https://github.com/user-attachments/assets/5f72f7b9-cb9a-412d-a480-1ea0f3b5fcf0) | ![Image](https://github.com/user-attachments/assets/fda252af-23ec-4531-aad2-17b49ff52b0b)  | ![Image](https://github.com/user-attachments/assets/1ffba447-5d6c-4d7a-a43b-fd56f548d4d4) |
 |:------------------------:|:------------------------:|:------------------------:|
 | ![Image](https://github.com/user-attachments/assets/a346ff0b-2822-4c85-9d5f-dde581961e0d) | ![Image](https://github.com/user-attachments/assets/8b8f10fc-75a9-41f8-a3ed-f3836bdb77a6) | ![Image](https://github.com/user-attachments/assets/3a5ea620-fa1c-4b25-b23d-e3c78266c4ae) |
-| ![Image](https://github.com/user-attachments/assets/5f72f7b9-cb9a-412d-a480-1ea0f3b5fcf0) |  |  |
+
 
 ---
 
