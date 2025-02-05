@@ -68,6 +68,11 @@ The app uses Hive to store temporary data, ensuring high performance and fast re
 
 The app relies on PHP and Laravel for efficient data management, providing fast and secure data processing.
 
+### 6.Regular Updates with Shorebird Code Push 🔄
+The app utilizes Shorebird Code Push to deploy regular updates, ensuring that users always have the latest features and improvements without needing to manually update through app stores.
+
+
+
 
 
 ---
