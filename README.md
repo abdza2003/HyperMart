@@ -39,7 +39,7 @@ HyperMart is a comprehensive e-commerce platform that includes a wide variety of
 
 - **Multiple Languages:** HyperMart supports various languages to meet the needs of users from different countries, offering a comfortable experience in their preferred language.
 
-### 6. Day and Night Modes 🌞
+### 7. Day and Night Modes 🌞
 
 - **Day Mode:** A clean and organized interface designed to help users start their day with focus and energy.
 - **Night Mode:** A warm and calm interface to help users relax and finish tasks in a comfortable environment.
