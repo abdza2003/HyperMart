@@ -3,7 +3,7 @@
 
 HyperMart is a comprehensive e-commerce platform that includes a wide variety of online stores. The app aims to enhance the shopping experience and streamline daily processes in an innovative and efficient way. Through the app, users can browse different stores, manage products, orders, and notifications, facilitating work and enhancing collaboration between users and buyers across various devices.
 
-![Image](https://github.com/user-attachments/assets/0ac4d886-0548-4e29-af0a-8325cf76ce18)
+![Image](https://github.com/user-attachments/assets/53ac8be0-6579-4b19-94f9-b6495f9ece5e)
 
 ---
 
