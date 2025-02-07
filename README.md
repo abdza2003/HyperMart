@@ -70,6 +70,9 @@ The app relies on PHP and Laravel for efficient data management, providing fast 
 ### 6.Regular Updates with Shorebird Code Push 🔄
 The app utilizes Shorebird Code Push to deploy regular updates, ensuring that users always have the latest features and improvements without needing to manually update through app stores.
 
+### 7.Performance Monitoring with Sentry.io 🚨
+The app integrates Sentry.io to monitor performance and track errors in real time. In case of any issues, developers are immediately notified, allowing for quick debugging and a smoother user experience.
+
 
 
 
