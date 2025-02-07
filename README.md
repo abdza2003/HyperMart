@@ -73,7 +73,8 @@ The app utilizes Shorebird Code Push to deploy regular updates, ensuring that us
 ### 7.Performance Monitoring with Sentry.io 🚨
 The app integrates Sentry.io to monitor performance and track errors in real time. In case of any issues, developers are immediately notified, allowing for quick debugging and a smoother user experience.
 
-
+### 8.Deep Linking Implementation 🔗
+The app incorporates Deep Linking, enabling users to navigate directly to specific content or pages within the app from external links. This enhances user engagement, improves marketing campaigns, and provides a seamless experience when opening shared links.
 
 
 
